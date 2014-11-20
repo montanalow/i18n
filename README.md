@@ -2,6 +2,8 @@
 
 [![Build Status](https://api.travis-ci.org/svenfuchs/i18n.svg?branch=master)](https://travis-ci.org/svenfuchs/i18n)
 
+Bump to 1.0
+
 Ruby Internationalization and localization solution.
 
 Features:
